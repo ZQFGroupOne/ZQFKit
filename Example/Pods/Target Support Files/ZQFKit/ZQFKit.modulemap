@@ -1,0 +1,6 @@
+framework module ZQFKit {
+  umbrella header "ZQFKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

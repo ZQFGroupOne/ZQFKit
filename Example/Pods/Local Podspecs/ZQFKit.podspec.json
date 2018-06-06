@@ -1,0 +1,22 @@
+{
+  "name": "ZQFKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZQFKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zouqif@163.com/ZQFKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zouqif@163.com": "zouqif@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zouqif@163.com/ZQFKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZQFKit/Classes/**/*"
+}

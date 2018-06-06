@@ -1,0 +1,6 @@
+framework module Pods_ZQFKit_Example {
+  umbrella header "Pods-ZQFKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

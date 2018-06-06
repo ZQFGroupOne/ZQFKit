@@ -1,0 +1,16 @@
+PODS:
+  - ZQFKit (0.1.0)
+
+DEPENDENCIES:
+  - ZQFKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZQFKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZQFKit: 12ccdb48523be0df241676e4a4e58d6a0013d4c2
+
+PODFILE CHECKSUM: a0ae81acba3c01fcd7b98fc50e5db9e382d7c98b
+
+COCOAPODS: 1.5.0
